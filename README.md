@@ -14,12 +14,12 @@ Token has the ERC1363 behaviors. [ERC1363](https://eips.ethereum.org/EIPS/eip-13
 
 Token extends from [ERC20Base](https://github.com/vittominacori/erc20-token).
 
-DApp source here [https://github.com/vittominacori/erc20-generator/tree/dapp](https://github.com/vittominacori/erc20-generator/tree/dapp).
+DApp source here [https://github.com/ucc-network/erc20-generator/tree/dapp](https://github.com/ucc-network/erc20-generator/tree/dapp).
 
 
 ## Try it
 
-[https://vittominacori.github.io/erc20-generator](https://vittominacori.github.io/erc20-generator)
+[https://ucc-network.github.io/erc20-generator](https://ucc-network.github.io/erc20-generator)
 
 
 ## Development
